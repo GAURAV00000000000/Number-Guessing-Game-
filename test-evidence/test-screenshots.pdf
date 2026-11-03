@@ -1,0 +1,813 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R] /Count 11 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 933 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 01: FIRST TRY WIN) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 1 attempt.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 1008 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 02: TOO LOW HINT) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 25) Tj
+0 -12 Td
+(Too low! Attempts left: 4) Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 2 attempts.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1010 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 03: TOO HIGH HINT) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 75) Tj
+0 -12 Td
+(Too high! Attempts left: 4) Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 2 attempts.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1075 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 04: NON INTEGER INPUT) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: abc) Tj
+0 -12 Td
+(Invalid input. Enter a whole number.) Tj
+0 -12 Td
+(Attempts left: 5 \(no attempt lost\)) Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 1 attempt.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1085 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 05: OUT OF RANGE INPUT) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 0) Tj
+0 -12 Td
+(Out of range. Enter a number between 1 and 100.) Tj
+0 -12 Td
+(Attempts left: 5 \(no attempt lost\)) Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 1 attempt.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1300 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 06: FIVE INCORRECT GUESSES) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 10) Tj
+0 -12 Td
+(Too low! Attempts left: 4) Tj
+0 -12 Td
+(Enter your guess: 20) Tj
+0 -12 Td
+(Too low! Attempts left: 3) Tj
+0 -12 Td
+(Enter your guess: 30) Tj
+0 -12 Td
+(Too low! Attempts left: 2) Tj
+0 -12 Td
+(Enter your guess: 50) Tj
+0 -12 Td
+(Too high! Attempts left: 1) Tj
+0 -12 Td
+(Enter your guess: 100) Tj
+0 -12 Td
+(Too high! Attempts left: 0) Tj
+0 -12 Td
+(Game Over! The number was 42.) Tj
+0 -12 Td
+(Attempts used: 5) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 0 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1034 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 07: REPLAY ANSWER VALIDATION) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 1 attempt.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): maybe) Tj
+0 -12 Td
+(Please type y or n.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 1213 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 08: REPLAY ROUND) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 1 attempt.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): y) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 1 attempt.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 2 out of 2 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 1014 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 09: MINIMUM VALID GUESS) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 1) Tj
+0 -12 Td
+(Too low! Attempts left: 4) Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 2 attempts.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 1017 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 10: MAXIMUM VALID GUESS) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 100) Tj
+0 -12 Td
+(Too high! Attempts left: 4) Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 2 attempts.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 1086 >>
+stream
+0.05 0.07 0.09 rg
+0 0 842 595 re f
+0.08 0.10 0.13 rg
+0 560 842 35 re f
+BT
+/F1 8 Tf
+0.72 0.76 0.81 rg
+20 574 Td
+(one.py --test - verified console run) Tj
+ET
+BT
+/F1 14 Tf
+0.34 0.65 0.98 rg
+32 535 Td
+(TEST CASE 11: ABOVE RANGE INPUT) Tj
+ET
+BT
+/F1 8 Tf
+0.55 0.59 0.63 rg
+32 516 Td
+(Input is echoed at each prompt; program output follows.) Tj
+ET
+BT
+/F1 9 Tf
+0.90 0.93 0.96 rg
+32 493 Td
+(====================================) Tj
+0 -12 Td
+(       NUMBER GUESSING GAME) Tj
+0 -12 Td
+(====================================) Tj
+0 -12 Td
+([test mode: secret number is fixed]) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(I'm thinking of a number between 1 and 100.) Tj
+0 -12 Td
+(You have 5 attempts. Good luck!) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Enter your guess: 101) Tj
+0 -12 Td
+(Out of range. Enter a number between 1 and 100.) Tj
+0 -12 Td
+(Attempts left: 5 \(no attempt lost\)) Tj
+0 -12 Td
+(Enter your guess: 42) Tj
+0 -12 Td
+(Congratulations! You guessed it in 1 attempt.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Play again? \(y/n\): n) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(You won 1 out of 1 game\(s\). Thanks for playing!) Tj
+0 -12 Td
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 24 0 R >>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000190 00000 n 
+0000000258 00000 n 
+0000001242 00000 n 
+0000001368 00000 n 
+0000002428 00000 n 
+0000002554 00000 n 
+0000003616 00000 n 
+0000003742 00000 n 
+0000004870 00000 n 
+0000004998 00000 n 
+0000006136 00000 n 
+0000006264 00000 n 
+0000007617 00000 n 
+0000007745 00000 n 
+0000008832 00000 n 
+0000008960 00000 n 
+0000010226 00000 n 
+0000010354 00000 n 
+0000011421 00000 n 
+0000011549 00000 n 
+0000012619 00000 n 
+0000012747 00000 n 
+0000013886 00000 n 
+trailer
+<< /Size 26 /Root 1 0 R >>
+startxref
+14014
+%%EOF

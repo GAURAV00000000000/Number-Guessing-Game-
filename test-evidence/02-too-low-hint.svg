@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="545" viewBox="0 0 1280 545"><rect width="100%" height="100%" fill="#0d1117"/><rect width="1280" height="42" fill="#161b22"/><circle cx="22" cy="21" r="6" fill="#ff5f56"/><circle cx="43" cy="21" r="6" fill="#ffbd2e"/><circle cx="64" cy="21" r="6" fill="#27c93f"/><text x="90" y="27" fill="#9da7b3" font-family="Arial, sans-serif" font-size="14">one.py --test ? verified console run</text><text x="52" y="82" fill="#58a6ff" font-family="Arial, sans-serif" font-weight="bold" font-size="21">TEST CASE 02: TOO LOW HINT</text><text x="52" y="108" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">Input is echoed at each prompt; program output follows.</text><text x="52" y="130" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">====================================</text>
+<text x="52" y="155" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">       NUMBER GUESSING GAME</text>
+<text x="52" y="180" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">====================================</text>
+<text x="52" y="205" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">[test mode: secret number is fixed]</text>
+<text x="52" y="230" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17"></text>
+<text x="52" y="255" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">I&#x27;m thinking of a number between 1 and 100.</text>
+<text x="52" y="280" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">You have 5 attempts. Good luck!</text>
+<text x="52" y="305" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17"></text>
+<text x="52" y="330" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">Enter your guess: 25</text>
+<text x="52" y="355" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">Too low! Attempts left: 4</text>
+<text x="52" y="380" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">Enter your guess: 42</text>
+<text x="52" y="405" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">Congratulations! You guessed it in 2 attempts.</text>
+<text x="52" y="430" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17"></text>
+<text x="52" y="455" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">Play again? (y/n): n</text>
+<text x="52" y="480" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17"></text>
+<text x="52" y="505" fill="#e6edf3" font-family="Consolas, Menlo, monospace" font-size="17">You won 1 out of 1 game(s). Thanks for playing!</text></svg>
